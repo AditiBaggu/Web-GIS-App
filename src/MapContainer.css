@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "GamjaFlower-Regular";
+  src: url("../Gamja_Flower/GamjaFlower-Regular.ttf") format("truetype");
+}
+
+h2 {
+  font-family: "GamjaFlower-Regular", sans-serif; /* Fallback font */
+}
